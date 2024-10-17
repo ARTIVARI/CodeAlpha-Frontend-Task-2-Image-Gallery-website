@@ -1,8 +1,7 @@
 
+https://github.com/user-attachments/assets/ee25eb29-5aaa-4bba-99e5-82e0e11f2379
+
 ![Screenshot 2024-10-17 200047](https://github.com/user-attachments/assets/712da3f9-83e6-4e37-a68e-7a03f6a67680)
-
-
-Uploading image gallary codeAlpha.mp4…
 
 
 
