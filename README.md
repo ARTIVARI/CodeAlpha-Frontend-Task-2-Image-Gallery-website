@@ -1,5 +1,8 @@
 
+
+
 Uploading image gallary codeAlpha.mp4…
+
 
 
 Welcome to the Image Gallery Website! This is a web application built with a clean and user-friendly interface that allows you to browse and search for images. The app features a sidebar with easy navigation and utilizes the Unsplash API to fetch high-quality images.
